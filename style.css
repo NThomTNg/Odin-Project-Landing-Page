@@ -1,0 +1,66 @@
+*{
+    font-family: 'Abyssinica SIL', serif;
+}
+
+.Header {
+    background-color: #1f2937;
+    min-height: 80vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.header-right {
+    size: 18px;
+    color: #e5e7eb;
+    text-decoration: 0;
+    cursor: auto;
+    position: relative;
+    left: 1400px;
+}
+
+.header-bottom {
+    color: #e5e7eb;
+    position: relative;
+    left: 200px;
+}
+
+h1 {
+    size: 48px;
+    color: #F9Faf8;
+    font: bold;
+}
+
+
+.crew {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    left: 500px;
+}
+
+div a.signup { 
+    background-color: #3882f6;
+    border-radius: 12px;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.randoinfo {
+    flex-basis: 32%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.images {
+    position: flex;
+    width: 400px;
+    height: 200px;
+}
